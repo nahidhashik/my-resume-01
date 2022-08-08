@@ -94,6 +94,7 @@ font-family: 'Sora', sans-serif;
 
     margin-left: 200px;
     width: 50%;
+    margin-right: 30px;
     
 
 
@@ -105,6 +106,7 @@ font-family: 'Sora', sans-serif;
 
     width: 100%;
     background-color: rgb(95, 92, 92);
+    
 
 }
 
@@ -113,6 +115,7 @@ font-family: 'Sora', sans-serif;
     width: 70%;
     background-color: green;
     padding: 10px;
+    
 }
 
 .skill-css{
