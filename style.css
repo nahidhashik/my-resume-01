@@ -68,3 +68,109 @@ font-family: 'Sora', sans-serif;
 }
 
 
+
+.skills-heading{
+
+    text-align: center;
+    margin: 10px;
+}
+
+.my-skills{
+
+    display: flex;
+}
+
+.html-div{
+
+    margin-left: 50px;
+    width: 50%;
+
+
+
+}
+
+
+.react-div{
+
+    margin-left: 200px;
+    width: 50%;
+    
+
+
+}
+
+
+
+.skill-container{
+
+    width: 100%;
+    background-color: rgb(95, 92, 92);
+
+}
+
+.skill-html{
+
+    width: 70%;
+    background-color: green;
+    padding: 10px;
+}
+
+.skill-css{
+
+    width: 60%;
+    background-color: orange;
+    padding: 10px;
+
+
+}
+
+.skill-bootstrap{
+
+    width: 50%;
+    background-color: red;
+    padding: 10px;
+}
+
+.skill-java{
+
+    width: 80%;
+    background-color: yellow;
+    padding: 10px;
+}
+
+
+
+.skill-react{
+
+
+    width: 80%;
+    background-color: yellow;
+    padding: 10px;
+}
+
+
+.skill-wordpress{
+
+
+    width: 80%;
+    background-color: blue;
+    padding: 10px;
+}
+
+
+.skill-python{
+
+    width: 90%;
+    background-color: burlywood;
+    padding: 10px;
+
+}
+
+
+.skill-django{
+
+    width: 90%;
+    background-color: orangered;
+    padding: 10px;
+
+}
