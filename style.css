@@ -1,0 +1,70 @@
+body{
+
+    font-family: 'Roboto Mono', monospace;
+font-family: 'Sora', sans-serif;
+}
+
+
+.header-div{
+
+    display: flex;
+    background-color: grey;
+
+
+}
+
+.div-one{
+
+
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.div-two{
+
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+
+.header-anchor{
+
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5px;
+}
+
+#about{
+
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about-me{
+
+
+    display: flex;
+}
+
+.about-div1{
+
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+
+}
+
+
+.about-div2{
+
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 15px;
+
+}
+
+
