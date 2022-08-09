@@ -5,6 +5,21 @@ font-family: 'Sora', sans-serif;
 }
 
 
+.real-header{
+
+
+    display: flex;
+    background-image: linear-gradient(orange, red);
+}
+#realheader-div{
+     
+    padding: 15px;
+    margin-left: 90px;
+    text-align: center;
+
+}
+
+
 .header-div{
 
     display: flex;
