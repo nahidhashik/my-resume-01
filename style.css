@@ -40,6 +40,7 @@ font-family: 'Sora', sans-serif;
 
     text-align: center;
     margin-top: 20px;
+    text-shadow: 15px 15px 20px gray ;
 }
 
 .about-me{
@@ -73,6 +74,7 @@ font-family: 'Sora', sans-serif;
 
     text-align: center;
     margin: 10px;
+    text-shadow: 15px 15px 20px gray ;
 }
 
 .my-skills{
@@ -185,6 +187,7 @@ font-family: 'Sora', sans-serif;
 
     text-align: center;
     margin: 20px;
+    text-shadow: 15px 15px 20px gray ;
 
 }
 
@@ -209,10 +212,44 @@ font-family: 'Sora', sans-serif;
     border-image-slice: 1;
 
     box-shadow: 1px 10px 10px grey;
+    text-shadow: 15px 15px 20px gray ;
     
    
     
    
+}
+.contact-header{
+
+
+
+    text-align: center;
+    text-shadow: 15px 15px 20px gray ;
+}
+
+.contact{
+
+
+    margin: 20px;
+    padding: 30px;
+    border-left: 5px solid;
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+
+    box-shadow: 1px 10px 10px grey;
+    text-align: center;
+    text-shadow: 15px 15px 20px gray ;
+    
+}
+
+
+
+.footer{
+
+
+    background-color: grey;
+    text-align: center;
+    width: 100%;
+    padding: 50px;
 }
 
 
