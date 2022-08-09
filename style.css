@@ -177,3 +177,43 @@ font-family: 'Sora', sans-serif;
     padding: 10px;
 
 }
+
+
+/* portfolio header class*/
+
+.portfolio-header{
+
+    text-align: center;
+    margin: 20px;
+
+}
+
+
+    /*portfolio boxshadow class  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;*/
+.portfolio-boxshadow
+{
+    display: flex;
+
+
+}
+
+
+.portfolio-div
+{
+
+
+    margin: 20px;
+    padding: 30px;
+    border-left: 5px solid;
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+
+    box-shadow: 1px 10px 10px grey;
+    
+   
+    
+   
+}
+
+
+
